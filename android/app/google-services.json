@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000569039593",
+    "project_id": "mechanics-adel",
+    "storage_bucket": "mechanics-adel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000569039593:android:8a53fd7960f6479a4b1e78",
+        "android_client_info": {
+          "package_name": "com.example.mechanics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcgJAvm6Lw0fzNiNaJRRPm9OJpSWD9bZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
